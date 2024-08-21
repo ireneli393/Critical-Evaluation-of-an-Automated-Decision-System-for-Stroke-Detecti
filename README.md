@@ -3,7 +3,7 @@
 
 **Critical Evaluation of an Automated Decision System (ADS) for Hospital Admissions and Stroke Detection**
 
-In this project, we critically assessed an Automated Decision System (ADS) implemented by Saimon Dahal, designed for hospital admission and early disease detection, specifically stroke. Our evaluation highlights several concerns regarding its performance, fairness, and overall appropriateness for real-world applications.
+In this project, we critically assessed an Automated Decision System (ADS), designed for hospital admission and early disease detection, specifically stroke. Our evaluation highlights several concerns regarding its performance, fairness, and overall appropriateness for real-world applications.
 
 **Techniques and Toolkits Used:**
 
